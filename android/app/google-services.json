@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1015209833746",
+    "project_id": "clockify-clone-9bc9e",
+    "storage_bucket": "clockify-clone-9bc9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015209833746:android:6080dc46f8beb9ef352fcb",
+        "android_client_info": {
+          "package_name": "com.example.clockify_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015209833746-vb0f12orkhs0o9rk7bhvit8820ot22h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clockify_clone",
+            "certificate_hash": "0ccc85a48907b9628d202b42e82b78e2301600e4"
+          }
+        },
+        {
+          "client_id": "1015209833746-mf4d8l91earkej51s034na0jj9kifu3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPjCJBYZUHCIB151XaQ1HEdqzk1GQyY4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015209833746-mf4d8l91earkej51s034na0jj9kifu3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
