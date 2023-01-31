@@ -47,7 +47,7 @@ class _DashBoardScreenState extends State<DashBoardScreen> {
         children: [
           _addTaskBar(),
           _addDateBar(),
-          _showTasks(),
+
         ],
       ),
       floatingActionButton: FloatingActionButton(
